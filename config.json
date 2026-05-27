@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvtringify",
+        "uuid": 1614874,
+        "checksum": "qlbw17"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
